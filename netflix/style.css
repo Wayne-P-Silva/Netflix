@@ -1,0 +1,75 @@
+body{
+    margin: 0vw;
+    padding: 0vw;
+    border: 0vw;
+    background-image: url(/imgs/netflix.png);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header a{
+    border: solid 0.1vw red;
+    margin-top: 1.6vw;
+    margin-right: 2vw;
+    padding: 0.5vw 1vw;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 0.4vw;
+
+}
+header img{
+    height: 2vw;
+    width: 9vw;
+    margin-left: 2.8vw;
+    margin-top: 1.8vw;
+}
+/*h1{
+    font-family: 'Gotham', sans-serif;
+    color: red;
+    padding-left: 2.8vw;
+}*/
+main{
+    text-align: center;
+    margin-top: 8.8vw;
+}
+h2{
+    color: white;
+    font-size: 3.2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -0.2vw;
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2vw;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2vw;
+}
+#entrada{
+    display: flex;
+    text-align: center;
+    margin-left: 30vw;
+}
+#Busca{
+    padding-left: 0.5vw;
+    padding-right: 14vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+}
+#start{
+    border: solid 0.1vw red;
+    padding-left: 1.4vw;
+    padding-right: 4.4vw;
+    padding-top: 0.8vw;
+    padding-bottom: 0.8vw;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2vw;
+}
